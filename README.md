@@ -1,6 +1,6 @@
 # Introduction
 
-This is a Java memory leak example, it is used as example in my blog (https://marcusvieira.tech) tutorials.
+This is a Java memory leak example, it is used as example in my [blog tutorials](https://marcusvieira.tech/2019/05/05/java-how-to-analyze-memory-leaks/).
 
 ## For check default JVM configuration:
 
